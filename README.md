@@ -2,7 +2,15 @@
 
 > "Knowledge is power, so grasp every moment with it."
 
-I am a passionate **Full-Stack Developer** and **Computer Science student** with a focus on building secure, automated, and scalable web applications. I love bridging the gap between complex backend logic and intuitive frontend experiences.
+I am a passionate **Full-Stack Developer** and **Computer Science student** at VIT Chennai. I specialize in building secure, automated web applications and exploring the intersection of AI and Blockchain.
+
+---
+
+### 🔗 Let's Connect!
+
+[<img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" />](https://adityaportfolio-red.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/aditya-raj-14767a293)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:adiraj.kashyap01@gmail.com)
 
 ---
 
@@ -27,11 +35,12 @@ I am a passionate **Full-Stack Developer** and **Computer Science student** with
 
 ### 📊 GitHub Stats
 
-![Adiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adiraj-kashyap&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiraj-kashyap&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api?username=Adiraj-kashyap&show_icons=true&theme=radical" alt="Adiraj's Stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rstaa.vercel.app/api/top-langs/?username=Adiraj-kashyap&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
-* **GitHub:** [Adiraj-kashyap](https://github.com/Adiraj-kashyap)
-* **Focus Areas:** AI Automation, Web Security, & Blockchain
+### 🎯 Focus Areas
+AI Automation • Web Security • Blockchain
